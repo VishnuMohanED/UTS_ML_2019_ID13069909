@@ -6,3 +6,6 @@ ML_Assignment 2_Report:
 PDF version of both Code and Report has been uploaded for reference.
 
 
+ML_Assignment 3_ Project Plan :
+
+Both Pdf & Notebook of Assignment 3 Project plan has been uploaded for reference.
